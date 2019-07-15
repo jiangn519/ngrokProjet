@@ -19,6 +19,7 @@ public class JavaApplication2 {
         
         System.out.println("Au revoir!");
         System.out.println("Merici");
+        System.out.println("encore");
     }
     
 }
